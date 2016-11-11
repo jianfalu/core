@@ -29,7 +29,6 @@ public class OrderByValue {
 		for (Map.Entry<String, Integer> entry : list) {
 			System.out.println(entry.getKey() + " ==== " + entry.getValue());
 		}
-	}-
+	}
 
-	See more at:http:// www.java2novice.com/java-interview-programs/sort-a-map-by-value/#sthash.DueJx2P7.dpuf
-}
+ }
